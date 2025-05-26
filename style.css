@@ -120,7 +120,7 @@ header {
   max-width: 1000px;
   margin: 0 auto;
   animation: slideIn 1s ease forwards;
-  transform: translateY(50%);
+  transform: translateY(25%);
 }
 
 
